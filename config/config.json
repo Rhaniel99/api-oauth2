@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "monteiro",
+    "password": "m1r@nda",
+    "database": "express_mine_auth",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "m1r@nda",
+    "database": "express_mine_auth",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "m1r@nda",
+    "database": "express_mine_auth",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
